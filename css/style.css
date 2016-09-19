@@ -1,0 +1,53 @@
+body{
+	margin: 50px;
+	border: solid 2px 	#FF1493 ;
+	border-radius: 8px;
+	box-shadow: 0 0 8px #F1D4D4;
+}
+header{
+	padding: 10px;
+	border-bottom: solid 1px #ccc;
+}
+img{
+
+	float: left;
+}
+nav{
+	border-bottom: solid 5px #ccc;
+}
+section{
+margin: 20px;
+}
+#encabezado { 
+	padding: 50px;
+	padding-bottom: 50px;
+	text-align: center; }
+
+img{width: 300px; margin-left: 100px; }
+
+#parrafo {color: #000; 
+font-family: "Arial";
+}
+ol{
+font-family: "Arial"; 
+font-size: 25px;}
+
+#Datos{
+text-align: center;
+font-family: "Arial"; 
+}
+#ingresar{
+	text-align: center;
+	font-family: "Arial";
+}
+footer{
+	text-align: center;
+	margin: 15px;
+}
+form{
+	text-align: center;
+}
+#tarea{
+	font-style: 10px;
+	font-family: "Arial";
+}
